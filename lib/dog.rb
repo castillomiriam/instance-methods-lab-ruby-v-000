@@ -3,4 +3,3 @@ class Dogs
     puts "Woof!"
 end
 end
-
